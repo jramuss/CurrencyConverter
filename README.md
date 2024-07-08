@@ -1,16 +1,14 @@
-# conversor
+Currency Converter App
+Este é um aplicativo de conversão de moeda desenvolvido usando o framework Flutter. O aplicativo permite que os usuários convertam valores entre diferentes moedas com facilidade.
 
-A new Flutter project.
+Funcionalidades Principais:
+Conversão de Moeda: Permite aos usuários inserir um valor em uma moeda de origem e converter para uma moeda de destino selecionada.
+Lista de Moedas: Oferece uma lista de moedas com suas respectivas abreviações e símbolos.
+Taxas de Câmbio Atualizadas: Utiliza taxas de câmbio atualizadas para garantir precisão nas conversões.
+Capturas de Tela:
+Inserir capturas de tela do aplicativo em funcionamento, destacando a interface de usuário, a entrada de valores e a seleção de moedas.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Tecnologias Utilizadas:
+Flutter: Framework de desenvolvimento de aplicativos multiplataforma.
+Dart: Linguagem de programação utilizada pelo Flutter.
+API de Taxas de Câmbio: Integração com uma API que fornece as taxas de câmbio atualizadas
